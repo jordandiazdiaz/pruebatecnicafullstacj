@@ -6,11 +6,11 @@ La aplicación cuenta con varias opciones para mejorar la experiencia del usuari
 
 ### Carrito de Compras
 
-![Opciones](<url-de-la-primera-imagen>)
+![Opciones](<https://jordandiaz1988.000webhostapp.com/captura%201.png>)
 
 Al hacer clic en el ícono del carrito ("Carrito"), se abre la ventana del carrito de compras, donde los usuarios pueden ver los artículos que han agregado.
 
-![Carrito de Compras](<url-de-la-segunda-imagen>)
+![Carrito de Compras](<https://jordandiaz1988.000webhostapp.com/captura%202.png>)
 
 En esta ventana, los usuarios pueden realizar las siguientes acciones:
 
