@@ -1,0 +1,1 @@
+C:\Users\Diaz\Downloads\Shopping-cart-reactjs-asp.net-web-api-main\Shopping-cart-reactjs-asp.net-web-api-main\ReactWithCore\reactwithcore.client\obj\Debug\reactwithcore.client.esproj.CoreCompileInputs.cache

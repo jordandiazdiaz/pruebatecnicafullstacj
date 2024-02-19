@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "ruZhBKWkDs1LSeGb+y6n72Ijc33BF+xYMv2caNS0w/4=",
+  "Source": "ReactWithCore.Server",
+  "BasePath": "_content/ReactWithCore.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Diaz\\Downloads\\Shopping-cart-reactjs-asp.net-web-api-main\\Shopping-cart-reactjs-asp.net-web-api-main\\ReactWithCore\\reactwithcore.client\\reactwithcore.client.esproj",
+      "Version": 2,
+      "Source": "reactwithcore.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

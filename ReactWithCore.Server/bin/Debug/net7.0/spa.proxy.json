@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\Diaz\\Downloads\\Shopping-cart-reactjs-asp.net-web-api-main\\Shopping-cart-reactjs-asp.net-web-api-main\\ReactWithCore\\ReactWithCore.Server\\..\\reactwithcore.client",
+"MaxTimeoutInSeconds": "120"
+}
+}
