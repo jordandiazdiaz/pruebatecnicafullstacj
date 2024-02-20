@@ -1,4 +1,8 @@
+using ReactWithCore.Server.Services;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddScoped<ICrudService, CrudService>();
 
 // Add services to the container.
 

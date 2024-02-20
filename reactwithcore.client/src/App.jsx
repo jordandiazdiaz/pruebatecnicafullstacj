@@ -1,14 +1,14 @@
 import './App.css';
-import Cart from './Components/Cart';
+import Cart from './Components/Cart/Cart';
 import Main from './Components/Main';
 import { Route, Routes } from 'react-router-dom';
 import WeatherForecasts from './Components/WeatherForecasts';
-import Nav from './Components/Nav';
-import AddNewProduct from './Components/AddNewProduct';
-import ViewCart from './Components/ViewCart';
-import Edit from './Components/Edit';
-import Delete from './Components/Delete';
-import NotFound from './Components/NotFound';
+import Nav from './Components/Layout/Nav';
+import AddNewProduct from './Components/Product/AddNewProduct';
+import ViewCart from './Components/Cart/ViewCart';
+import Edit from './Components/Product/Edit';
+import Delete from './Components/Product/Delete';
+import NotFound from './Components/Layout/NotFound';
 
 function App() {
     return (
